@@ -44,6 +44,10 @@ Consensus Mechanism in Consortium Blockchain based on Multi-Role Reputation:
     	Type     byte
     }
     2.2 Transaction Type
+        goodsBase(newGoods)
+        level 1
+        level 2
+
         if orderType!=Transfer{
             if receiver==Supplier{
                 TxType=Super
